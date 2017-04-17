@@ -8,15 +8,15 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile1.jpg
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/0B25Fte_9U6m0ZmZmWG84b0pqc3c/view?usp=sharing
 
-url: https://koppl.in/indigo
+url: https://scausey.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -52,18 +52,18 @@ github: scausey
 email: causeys01@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    samanthacausey:
+        name: Samantha Louise Causey
+        bio: Computer science major @ Smith College. Graduating May of 2017.
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: causeys007
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
