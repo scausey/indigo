@@ -1,0 +1,19 @@
+---
+title: "Hello world."
+layout: post
+date: 2017-04-16 23:55
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- boardgames
+star: true
+category: blog
+author: samanthacausey
+description: A first blog post.
+---
+
+<p>Hello world.</p>
+
+<p>I didn't want to miss the opportunity to share Settlers of Catan (also known as Catan) with the masses.</p>
+
+<iframe width="854" height="480" src="https://www.youtube.com/embed/o3WJTlDa7oo" frameborder="0" allowfullscreen></iframe>
