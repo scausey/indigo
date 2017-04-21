@@ -4,43 +4,22 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I'm a fourth-year computer science student at <a href="https://www.smith.edu/">Smith College</a> in Northampton, Massachusetts. I'm graduating in May of 2017 with a BA in computer science.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I received a prestigious <a href="http://www.fulbright.ca/programs/killam-fellowships.html">Killiam Fellowship</a>, and studied at York University in Toronto, Ontario, Canada in Fall of 2015; then in Spring of 2016, I studied abroad at AIT Budapest in Budapest, Hungary.</p>
 
-<h2>Skills</h2>
+<p>I like <a href="http://scausey.github.io/projects/">making stuff</a>.</p>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+<p>Besides that, I'm is a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; spontaneous napper; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>; sci-fi and fantasy enthusiast; and wonderjunkie.
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
+<h2 style="text-align:center; margin-top:15px; margin-bottom:0px;">Skills</h2>
+	<div class="row" style="text-align: center">
+		<img class="image" src="../assets/images/java-icon.jpg" alt="Java icon" style="width:80px; display:inline-block; padding:20px;">
+		<img class="image" src="../assets/images/python_icon.png" alt="Python icon" style="width:140px; display:inline-block; padding:20px;">
+		<img class="image" src="../assets/images/javascript.png" alt="Javascript icon" style="width:90px; display:inline-block; padding:20px; position:relative; bottom:10px;">
+	</div>
+	<div class="row" style="text-align: center">
+		<img class="image" src="../assets/images/HTML_icon.png" alt="HTML icon" style="width:120px; display:inline-block; padding:20px; position:relative; bottom:20px; left:30px; ">
+		<img class="image" src="../assets/images/css.png" alt="CSS icon" style="width:135px; display:inline-block; padding:20px; position:relative; bottom:10px; left:16px;">
+		<img class="image" src="../assets/images/bootstrap.png" alt="Bootstrap icon" style="width:160px;display:inline-block; padding:20px; position:relative; top:5px; right:15px;">
+	</div>
