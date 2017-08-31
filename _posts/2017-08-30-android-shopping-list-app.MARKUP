@@ -18,11 +18,16 @@ description: Android mobile application project, built April 19, 2016.
 
 <ul>
 	<li>Multiple Activies.</li>
+	<figure>
+		<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
+		<figcaption>Splash screen activity, main activity, and new item activity.</figcaption>
+	</figure>
+
 	<li>Lists (RecyclerView)</li>
 	<li>Animations.</li>
 	<li>Persistence data storage using <a href="http://satyan.github.io/sugar/">SugarORM</a>.</li>
 </ul>
 
-<p>The full code can be found [here](https://github.com/scausey/shoppinglist). Full demo below.</p>
+<p>The full code can be found <a href="https://github.com/scausey/shoppinglist">here</a>. Full demo below.</p>
 
 <iframe width="854" height="480" src="/assets/videos/myCardDemo.mp4" frameborder="0" allowfullscreen></iframe>
