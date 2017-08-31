@@ -20,15 +20,13 @@ description: Android mobile application project, built April 19, 2016.
 	<li>Multiple Activies: Splash screen activity, main activity, and new item activity.</li>
 	<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
 	<li>Lists (RecyclerView)</li>
-	<img src="/assets/images/myCartRecyclerView.jpg" alt="RecyclerView example." />
+	<img style="width: 320px; height: 510px;" src="/assets/images/myCartRecyclerView.jpg" alt="RecyclerView example." />
 	<li>Animations.</li>
 	<img src="/assets/gifs/myCartSplashScreenAnimation.gif" alt="Splash screen animation." />
 	<li>Persistence data storage using <a href="http://satyan.github.io/sugar/">SugarORM</a>: Data is preserved even when application is destroyed.</li>
-	<img src="/assets/gifs/myCartDataStoreage.gif" alt="Persitence data storage." />
+	<img src="/assets/gifs/myCartDataStorage.gif" alt="Persitence data storage." />
 </ul>
 
 <p>The full code can be found <a href="https://github.com/scausey/shoppinglist">here</a>. Full demo below.</p>
 
-<video>
-	<source src="/assets/videos/myCardDemo.mp4">
-</video>
+<iframe width="500" height="480" src="/assets/videos/myCardDemo.mp4" frameborder="0" allowfullscreen autoplay="false"></iframe>
