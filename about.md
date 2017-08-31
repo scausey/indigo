@@ -4,13 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I graduated in May of 2017 from <a href="https://www.smith.edu/">Smith College</a> in Northampton, Massachusetts with a BA in computer science.</p>
+<p>I graduated in May of 2017 from <a href="https://www.smith.edu/">Smith College</a> in Northampton, Massachusetts with a BA in computer science. I'm passionate about using code for social good and education. And for just <a href="http://scausey.github.io/projects/">making cool things</a>.</p>
 
-<p>I received a prestigious <a href="http://www.fulbright.ca/programs/killam-fellowships.html">Killiam Fellowship</a>, and studied at York University in Toronto, Ontario, Canada in Fall of 2015; then in Spring of 2016, I studied abroad at AIT Budapest in Budapest, Hungary.</p>
+<p>I received a prestigious <a href="http://www.fulbright.ca/programs/killam-fellowships.html">Killiam Fellowship</a>, and studied at York University in Toronto, Ontario, Canada in Fall of 2015; then in Spring of 2016, I studied abroad at AIT Budapest in Budapest, Hungary. I also was on the Dean's List at Smith College for the 2016-2017 school year.</p>
 
-<p>I like <a href="http://scausey.github.io/projects/">making stuff</a>.</p>
+<p>I'm currently a Codecademy advisor. I get to teach people computer science fundamentals and programming, and I love it!</p>
 
-<p>Besides that, I'm a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; spontaneous napper; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>; sci-fi and fantasy enthusiast; and wonderjunkie. I'm passionate about social change and education. 
+<p>I'm also a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); and <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>.</p>
 
 <h2 style="text-align:center; margin-top:15px; margin-bottom:0px;">Skills</h2>
 	<div class="row" style="text-align: center">
