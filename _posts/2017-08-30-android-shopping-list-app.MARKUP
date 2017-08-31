@@ -17,13 +17,13 @@ description: Android mobile application project, built April 19, 2016.
 <p>Android mobile application made April 19, 2016 for the Android Mobile Development course I took while in Budapest, Hungary at AIT Budapest. The goal of the assignment was to practice the following Android techniques:</p>
 
 <ul>
-	<li>Multiple Activies.</li>
-	<figure>
-		<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
-		<figcaption>Splash screen activity, main activity, and new item activity.</figcaption>
-	</figure>
+	<li>Multiple Activies: Splash screen activity, main activity, and new item activity.
+	<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
+	</li>
 
 	<li>Lists (RecyclerView)</li>
+	<img src="/assets/images/myCartRecyclerView.jpg" alt="RecyclerView example." />
+
 	<li>Animations.</li>
 	<li>Persistence data storage using <a href="http://satyan.github.io/sugar/">SugarORM</a>.</li>
 </ul>
