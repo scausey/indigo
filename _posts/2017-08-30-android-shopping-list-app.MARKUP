@@ -25,7 +25,7 @@ description: Android mobile application project, built April 19, 2016.
 <p><strong>Animations.</strong></p>
 <img src="/assets/gifs/myCartSplashScreenAnimation.gif" alt="Splash screen animation." />
 
-<p><strong>Persistence data storage</strong> using <a href="http://satyan.github.io/sugar/">SugarORM</a>: Data is preserved even when application is destroyed.</p>
+<p>and <strong>Persistence data storage</strong> using <a href="http://satyan.github.io/sugar/">SugarORM</a>: Data is preserved even when application is destroyed.</p>
 <img src="/assets/gifs/myCartDataStorage.gif" alt="Persitence data storage." />
 
 <p>The <strong>full code</strong> can be found <a href="https://github.com/scausey/shoppinglist">here</a>. <strong>Demo</strong> below.</p>
