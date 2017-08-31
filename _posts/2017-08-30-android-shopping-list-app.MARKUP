@@ -21,7 +21,7 @@ description: Android mobile application project, built April 19, 2016.
 
 
 * Lists (RecyclerView).
-![RecyclerView](/assets/images/myCardRecyclerView.jpg)
+![RecyclerView](/assets/images/myCartRecyclerView.jpg)
 
 * Animations.
 ![Animations][/assets/gifs/myCartSplashScreenAnimation.gif]
