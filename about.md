@@ -10,7 +10,7 @@ layout: page
 
 <p>I'm currently a Codecademy advisor. I get to teach people computer science fundamentals and programming, and I love it!</p>
 
-<p>I'm also a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); and <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>.</p>
+<p>I'm also a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); and <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>.
 
 <h2 style="text-align:center; margin-top:15px; margin-bottom:0px;">Skills</h2>
 	<div class="row" style="text-align: center">
