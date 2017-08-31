@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - android
 star: true
+hidden: true
 category: project
 projects: true
 author: samanthacausey
@@ -16,20 +17,9 @@ description: Android mobile application project, built April 19, 2016.
 <p>Android mobile application made April 19, 2016 for the Android Mobile Development course I took while in Budapest, Hungary at AIT Budapest. The goal of the assignment was to practice the following Android techniques:</p>
 
 * Multiple Activies.
-![Splash screen activity, main activity, and new item activity][/assets/gifs/myCartMultiActivity.gif]
-<figcaption class="caption">Splash screen activity, main activity, and new item activity.</figcaption>
-
-
 * Lists (RecyclerView).
-![RecyclerView](/assets/images/myCartRecyclerView.jpg)
-
 * Animations.
-![Animations][/assets/gifs/myCartSplashScreenAnimation.gif]
-
 * Persistence data storage using [SugarORM](http://satyan.github.io/sugar/).
-![Persistence data storage using SugarORM][/assets/gifs/myCartDataStoreage.gif]
-<figcaption class="caption">Data is preserved even when application is destroyed.</figcaption>
-
 
 <p>The full code can be found [here](https://github.com/scausey/shoppinglist). Full demo below.</p>
 
