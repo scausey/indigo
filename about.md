@@ -4,13 +4,13 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I'm a fourth-year computer science student at <a href="https://www.smith.edu/">Smith College</a> in Northampton, Massachusetts. I'm graduating in May of 2017 with a BA in computer science.</p>
+<p>I graduated in May of 2017 from <a href="https://www.smith.edu/">Smith College</a> in Northampton, Massachusetts with a BA in computer science.</p>
 
 <p>I received a prestigious <a href="http://www.fulbright.ca/programs/killam-fellowships.html">Killiam Fellowship</a>, and studied at York University in Toronto, Ontario, Canada in Fall of 2015; then in Spring of 2016, I studied abroad at AIT Budapest in Budapest, Hungary.</p>
 
 <p>I like <a href="http://scausey.github.io/projects/">making stuff</a>.</p>
 
-<p>Besides that, I'm is a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; spontaneous napper; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>; sci-fi and fantasy enthusiast; and wonderjunkie.
+<p>Besides that, I'm a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; spontaneous napper; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>; sci-fi and fantasy enthusiast; and wonderjunkie. I'm passionate about social change and education. 
 
 <h2 style="text-align:center; margin-top:15px; margin-bottom:0px;">Skills</h2>
 	<div class="row" style="text-align: center">

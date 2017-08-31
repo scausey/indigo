@@ -1,6 +1,6 @@
 # main text of home
 name: Samantha Louise Causey
-bio: Computer science major @ Smith College, graduating May 2017.
+bio: Advisor @ Codecademy. BA in Computer Science from Smith College.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,7 +55,7 @@ email: causeys01@gmail.com
 authors:
     samanthacausey:
         name: Samantha Louise Causey
-        bio: Computer science major @ Smith College. Graduating May of 2017. Snack monster. Sci-fi and fantasy enthusiast. Gets too into Dungeons and Dragons. Crazy about boardgames.
+        bio: Advisor @ Codecademy. 2017 Smith College grad, BA in Computer Science. Gets too into Dungeons and Dragons.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: causeys007
