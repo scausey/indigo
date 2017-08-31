@@ -16,7 +16,7 @@ description: Android mobile application project, built April 19, 2016.
 
 <p>Android mobile application made April 19, 2016 for the Android Mobile Development course I took while in Budapest, Hungary at AIT Budapest. The goal of the assignment was to practice the following Android techniques:</p>
 
-<p><strong>Multiple Activies</strong>: Splash screen activity, main activity, and new item activity.
+<p><b>Multiple Activies</b>: Splash screen activity, main activity, and new item activity.
 	<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
 </p>
 <p><strong>Lists (RecyclerView)</strong>
