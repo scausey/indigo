@@ -16,18 +16,17 @@ description: Android mobile application project, built April 19, 2016.
 
 <p>Android mobile application made April 19, 2016 for the Android Mobile Development course I took while in Budapest, Hungary at AIT Budapest. The goal of the assignment was to practice the following Android techniques:</p>
 
-<p><b>Multiple Activies</b>: Splash screen activity, main activity, and new item activity.
-	<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
-</p>
-<p><strong>Lists (RecyclerView)</strong>
-	<img style="width: 320px; height: 510px;" src="/assets/images/myCartRecyclerView.jpg" alt="RecyclerView example." />
-</p>
-<p><strong>Animations.</strong>
-	<img src="/assets/gifs/myCartSplashScreenAnimation.gif" alt="Splash screen animation." />
-</p>
-<p><strong>Persistence data storage</strong> using <a href="http://satyan.github.io/sugar/">SugarORM</a>: Data is preserved even when application is destroyed.
-	<img src="/assets/gifs/myCartDataStorage.gif" alt="Persitence data storage." />
-</p>
+<p><strong>Multiple Activies</strong>: Splash screen activity, main activity, and new item activity.</p>
+<img src="/assets/gifs/myCartMultiActivity.gif" alt="multiple activities" />
+
+<p><strong>Lists (RecyclerView)</strong><p>
+<img style="width: 320px; height: 510px;" src="/assets/images/myCartRecyclerView.jpg" alt="RecyclerView example." />
+
+<p><strong>Animations.</strong></p>
+<img src="/assets/gifs/myCartSplashScreenAnimation.gif" alt="Splash screen animation." />
+
+<p><strong>Persistence data storage</strong> using <a href="http://satyan.github.io/sugar/">SugarORM</a>: Data is preserved even when application is destroyed.</p>
+<img src="/assets/gifs/myCartDataStorage.gif" alt="Persitence data storage." />
 
 <p>The <strong>full code</strong> can be found <a href="https://github.com/scausey/shoppinglist">here</a>. <strong>Demo</strong> below.</p>
 
