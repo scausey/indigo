@@ -1,5 +1,5 @@
 ---
-title: "Parallel and Distributed Computing final project: A comparison between Apache Hadoop and Apache Pig."
+title: "Android recipe finder application."
 layout: post
 date: 2017-09-07 17:00
 image: /assets/images/markdown.jpg
