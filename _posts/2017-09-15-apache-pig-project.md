@@ -1,7 +1,7 @@
 ---
 title: "Apache Pig: A MapReduce Alternative for Data Processing."
 layout: post
-date: 2017-09-09 01:39
+date: 2017-09-15 01:39
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:

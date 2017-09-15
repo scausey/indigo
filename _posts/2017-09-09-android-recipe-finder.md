@@ -1,7 +1,7 @@
 ---
 title: "Android recipe finder application."
 layout: post
-date: 2017-09-07 17:00
+date: 2017-09-09 17:00
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
