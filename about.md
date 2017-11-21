@@ -10,8 +10,7 @@ layout: page
 
 <p>I'm currently a Codecademy advisor. I get to teach people computer science fundamentals and programming, and I love it!</p>
 
-<p>I'm also a cereal connoisseur; <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">voracious reader</a>; lover of cake (<a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST); and <a href="http://steamcommunity.com/id/enigmajane/">professional button-masher</a>.
-
+<p>
 <h2 style="text-align:center; margin-top:15px; margin-bottom:0px;">Skills</h2>
 	<div class="row" style="text-align: center">
 		<img class="image" src="../assets/images/java-icon.jpg" alt="Java icon" style="width:80px; display:inline-block; padding:20px;">
@@ -23,3 +22,12 @@ layout: page
 		<img class="image" src="../assets/images/css.png" alt="CSS icon" style="width:135px; display:inline-block; padding:20px; position:relative; bottom:10px; left:16px;">
 		<img class="image" src="../assets/images/bootstrap.png" alt="Bootstrap icon" style="width:160px;display:inline-block; padding:20px; position:relative; top:5px; right:15px;">
 	</div>
+</p>
+
+<p style="text-align:center"><strong>Other Stuff:</strong></p>
+<ul>
+	<li>I'm drawn to stories, so I <a href="https://www.goodreads.com/user/show/3955921-samantha-louise">read</a> way too much young adult literature; and like playing story-driven <a href="http://steamcommunity.com/id/enigmajane/">video games</a>.</li>
+	<li>Occasionally I'm a mediocre dungeon master for my friends. When I don't feel like being a mediocre DM we play board games instead.</li>
+	<li>I love cake and <a href="http://daubnercukraszda.hu/">Daubner in Budapest</a> is THE BEST!</li>
+	<li>Movie and video game soundtracks are my go-to music.</li>
+</ul>
