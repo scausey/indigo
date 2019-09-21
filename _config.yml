@@ -1,9 +1,9 @@
 # main text of home
 name: Samantha Louise Causey
-bio: Advisor @ Codecademy. Python is love. BA in Computer Science from Smith College.
+bio: Junior Rails dev @ Annkissam. BA in Computer Science from Smith College, 2017.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Content is three-fourth technology, one-fourth personal.
 
 # if it's an external image, update below for true
 # better with square images
@@ -55,7 +55,7 @@ email: causeys01@gmail.com
 authors:
     samanthacausey:
         name: Samantha Louise Causey
-        bio: Advisor @ Codecademy. 2017 Smith College grad, BA in Computer Science. Gets too into Dungeons and Dragons.
+        bio: Junior Rails dev @ Annkissam. BA in Computer Science from Smith College, 2017.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: causeys007
