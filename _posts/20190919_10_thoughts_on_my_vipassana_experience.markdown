@@ -1,7 +1,7 @@
 ---
-title: "7 thoughts on my 10 day silent Vipassana meditation intensive."
+title: "8 thoughts on my 10 day silent Vipassana meditation intensive."
 layout: post
-date: 2019-09-19 12:49
+date: 2019-09-21 12:49
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
