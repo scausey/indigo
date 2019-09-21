@@ -12,7 +12,7 @@ category: blog
 author: samanthacausey
 description: My thoughts and reflections on my 10 day silent Vipassana meditation course.
 ---
-In early September, I participated in a ten-day Vipassana silent meditation course at the [Shelbourne Falls meditation center](https://www.dhara.dhamma.org/) in Western Massachusetts. The following list are general thoughts and reflections on my experience at this specific meditation center.
+In early September, I participated in a ten-day Vipassana silent meditation course at the [Shelbourne Falls meditation center](https://www.dhara.dhamma.org/) in Western Massachusetts. The following list consists of general thoughts and reflections on my experience at this specific meditation center.
 
 1. **I made no preparations for the course, which was extremely beneficial to my success.** The fact that I had no idea what I was getting myself into was beneficial. I learned about silent meditation "retreats" in March of 2019 and a week later I applied to take a course. I had no experience with meditation. I knew what the daily schedule would be like, I knew what the food would be like, and from what very little research I did, I knew it would be a very trying experience. I discounted the physical and emotional impact of sitting still and meditating for 11.5 hours each day with nothing to distract me from my thoughts. I think if I had truly understood how difficult the course would be on a physical and emotional level, I wouldn't have taken the course. Not knowing what Vipassana was or even the most basic theories about the technique also helped me really dive into it.
 
