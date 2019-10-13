@@ -7,6 +7,7 @@ headerImage: false
 tag:
 - health
 - personal
+- reflections
 star: true
 category: blog
 author: samanthacausey
